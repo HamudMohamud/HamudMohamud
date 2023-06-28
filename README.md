@@ -1,4 +1,5 @@
-# Hi, I'm Hamud Mohamud! 👋
+# Hi, 👋
+I'm Hamud Mohamud! 
 
 Welcome to my GitHub profile! I'm currently a Full Stack Developer in training, enrolled in the Springboard Boot Camp curriculum. I'm passionate about coding and continuously expanding my skills in web development.
 
