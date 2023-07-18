@@ -17,13 +17,13 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-***Welcome!*** 
+## ***Welcome!*** 
 
 **I'm currently a Full Stack Developer in training, enrolled in the Springboard Boot Camp curriculum. I'm passionate about coding and continuously expanding my skills in web development.**
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HamudMohamud&show_icons=true&theme=radical"/>
-<img align="left" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamudMohamud&layout=compact"/>
+<img align="left" width="505" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamudMohamud&layout=compact"/>
 
 
 # ****Welcome to My Professional Profile: Delve into My Projects and Follow My Journey as a Dedicated Springboard Student. Thank You for Visiting!****
