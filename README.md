@@ -26,7 +26,7 @@
 <img align="left" width="505" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamudMohamud&layout=compact"/>
 
 
-# ****Welcome to My Professional Profile: Delve into My Projects and Follow My Journey as a Dedicated Springboard Student. Thank You for Visiting!****
+
 
 
 # Open for Collaboration: Reach Out and Let's Learn Together
