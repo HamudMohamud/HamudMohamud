@@ -23,8 +23,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HamudMohamud&show_icons=true&theme=radical"/>
-<img align="left" width="370" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamudMohamud&layout=compact"/>
-
+<img align="left" width="350" height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamudMohamud&layout=compact"/>
 
 # ****Welcome to My Professional Profile: Delve into My Projects and Follow My Journey as a Dedicated Springboard Student. Thank You for Visiting!****
 
