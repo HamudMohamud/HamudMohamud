@@ -40,7 +40,7 @@
 
 ## Repository Overview
 
-This repository, [HamudMohamud/HamudMohamud](https://github.com/HamudMohamud/HamudMohamud), is a special place where I showcase my projects and track my progress as a Springboard student. I have been coding as an amateur for three years, with my coding journey starting back in 2020. I'm excited to share my work with you and would greatly appreciate your feedback and suggestions. If you come across any bugs or have ideas for optimizing my code, please feel free to let me know. I'm always open to learning from the best!
+This repository, is a special place where I showcase my projects and track my progress as a Springboard student. I have been coding as an amateur for three years, with my coding journey starting back in 2020. I'm excited to share my work with you and would greatly appreciate your feedback and suggestions. If you come across any bugs or have ideas for optimizing my code, please feel free to let me know. I'm always open to learning from the best!
 
 
 
