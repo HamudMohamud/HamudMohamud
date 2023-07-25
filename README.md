@@ -31,12 +31,18 @@
 # Open for Collaboration: Reach Out and Let's Learn Together
 
  📚 I'm currently learning and honing my skills as a Full Stack Developer.
+
+[![HamudMohamud wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HamudMohamud)](https://github.com/anuraghazra/github-readme-stats)
+
  
  👥 I'm interested in collaborating on various projects and working with talented individuals.
  
  🙏🏾 I'm eager to learn from experienced developers and enhance my coding abilities.
  
- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/hamudmohamud).
+ 📫 You can reach me on 
+
+<img align="top" src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+https://www.linkedin.com/in/hamudmohamud
 
 ## Repository Overview
 
