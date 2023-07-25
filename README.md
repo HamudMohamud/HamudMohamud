@@ -32,7 +32,7 @@
 
  📚 I'm currently learning and honing my skills as a Full Stack Developer.
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/HamudMohamud/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/HamudMohamud)
 
 
  
