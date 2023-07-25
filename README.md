@@ -32,7 +32,8 @@
 
  📚 I'm currently learning and honing my skills as a Full Stack Developer.
 
-[![HamudMohamud wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HamudMohamud)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/HamudMohamud/github-readme-stats)
+
 
  
  👥 I'm interested in collaborating on various projects and working with talented individuals.
