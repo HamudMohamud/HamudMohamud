@@ -1,54 +1,34 @@
-# Hi, I'm Hamud Mohamud! 👋🏾
+<h1 align="center">Hi 👋🏾 I'm Hamud Mohamud!</h1>
+<img align="right" alt="Coding" width="900" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<h2 align="center">I'm currently a Full Stack Developer in training, enrolled in the Springboard Boot Camp curriculum. I'm passionate about coding and continuously expanding my skills in web development.</h2>
+<h1></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamudmohamud&label=Profile%20views&color=brightgreen&style=flat" alt="hamudmohamud" /> </p>
 
-## ***Welcome!*** 
+- 💻 I’m currently devoloping And Refining My Skills in All Aspects of a Full Stack Developer
 
-**I'm currently a Full Stack Developer in training, enrolled in the Springboard Boot Camp curriculum. I'm passionate about coding and continuously expanding my skills in web development.**
+- 💬 Ask me about **An Open Book of Knowledge. Feel free to inquire about anything – whether it's related to software, hardware, challenging coding endeavors, or more. I'll help you unearth solutions and insights, drawing from my past experiences.**
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HamudMohamud&show_icons=true&theme=radical"/>
-<img align="left" width="350" height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamudMohamud&layout=compact"/>
+- 📄 Feel free to explore my website. [https://hamudmohamud.netlify.app](https://hamudmohamud.netlify.app)
 
-# ****Welcome to My Professional Profile: Delve into My Projects and Follow My Journey as a Dedicated Springboard Student. Thank You for Visiting!****
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/hamid-mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hamid-mohamud" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hamudmohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamudmohamud" height="30" width="40" /></a>
+</p>
 
-
-# Open for Collaboration: Reach Out and Let's Learn Together
-
- 📚 I'm currently learning and honing my skills as a Full Stack Developer.
-
-[![Hamud Mohamud](https://github-readme-stats.vercel.app/api/wakatime?username=hamudmohamud)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left"> Languages I Know or Want to Collaborate On :</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 
 
- 
- 👥 I'm interested in collaborating on various projects and working with talented individuals.
- 
- 🙏🏾 I'm eager to learn from experienced developers and enhance my coding abilities.
- 
- 📫 You can reach me on 
 
-<img align="top" src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-https://www.linkedin.com/in/hamudmohamud
 
-## Repository Overview
 
-This repository, is a special place where I showcase my projects and track my progress as a Springboard student. I have been coding as an amateur for three years, with my coding journey starting back in 2020. I'm excited to share my work with you and would greatly appreciate your feedback and suggestions. If you come across any bugs or have ideas for optimizing my code, please feel free to let me know. I'm always open to learning from the best!
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamudmohamud&" alt="hamudmohamud" /></p>
+
 
 
 
